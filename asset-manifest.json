@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Firebase-auth/static/css/main.edcebb4b.css",
+    "main.js": "/Firebase-auth/static/js/main.bd8a157d.js",
+    "index.html": "/Firebase-auth/index.html",
+    "main.edcebb4b.css.map": "/Firebase-auth/static/css/main.edcebb4b.css.map",
+    "main.bd8a157d.js.map": "/Firebase-auth/static/js/main.bd8a157d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcebb4b.css",
+    "static/js/main.bd8a157d.js"
+  ]
+}
